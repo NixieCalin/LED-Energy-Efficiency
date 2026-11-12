@@ -74,9 +74,3 @@ LED-Energy-Efficiency/
 - Include additional bulb technologies.
 - Add interactive filters for more detailed comparisons.
 - Improve visualizations and extend the analysis using larger datasets.
-
-## Author
-**Nixie Calin Y**
-
-GitHub: https://github.com/NixieCalin
-
