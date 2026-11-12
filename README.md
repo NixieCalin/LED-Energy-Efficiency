@@ -19,17 +19,27 @@ This project presents a software-based comparison of LED and incandescent bulbs 
 - Streamlit
 
 ## Project Structure
-```text
 LED-Energy-Efficiency/
 ├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
 ├── data/
 │   ├── raw/
+│   │   ├── led_vs_incandescent_efficiency.csv
+│   │   ├── led_vs_incandescent_efficiency_dataset_v2.csv
+│   │   └── led_vs_incandescent_energy_to_light_efficiency.csv
 │   └── processed/
+│       └── cleaned_dataset.csv
 ├── notebooks/
 │   └── data_analysis.ipynb
-├── outputs/
-└── README.md
-```
+└── outputs/
+    ├── annual_energy_comparison.png
+    ├── brightness_vs_power.png
+    ├── co2_emissions_comparison.png
+    ├── electricity_cost_comparison.png
+    ├── luminous_efficacy_comparison.png
+    └── led_incandescent_comparison.csv
 
 ## Methodology
 1. Collected existing LED and incandescent bulb datasets.
