@@ -18,7 +18,10 @@ This project presents a software-based comparison of LED and incandescent bulbs 
 - Jupyter Notebook
 - Streamlit
 
+
 ## Project Structure
+
+```text
 LED-Energy-Efficiency/
 ├── app.py
 ├── requirements.txt
@@ -40,6 +43,8 @@ LED-Energy-Efficiency/
     ├── electricity_cost_comparison.png
     ├── luminous_efficacy_comparison.png
     └── led_incandescent_comparison.csv
+```
+
 
 ## Methodology
 1. Collected existing LED and incandescent bulb datasets.
